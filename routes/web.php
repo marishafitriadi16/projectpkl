@@ -13,12 +13,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/dashboard', function () {
+Route::get('/', function () {
     return view('layouts.master');
     
 });
-Route::get('/', function () {
-    return view('login');
+Route::get('/login', function () {
+    return view('layouts.login');
     
 });
-
