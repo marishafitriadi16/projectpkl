@@ -1,0 +1,329 @@
+  <a class="nav-link" href="{{ ('lawmaker') }}/index.html">
+  <!-- Heading -->
+                <div class="heading-block">
+                  <h2>Rumah Sakit Rujukan COVID 19</h2>
+                  <hr>
+                </div>
+                <div class="doct-list owl-carousel owl-theme owl-loaded">
+        <div class="item"> 
+                        <a href="#pop-open-08" class="link popup-vedio video-btn"> <img class="img-responsive" src="http://covid19.sumutprov.go.id/uploads/rumah-sakit/rsu-bunda-thamrin_besar.jpg" alt="">
+                        </a> <div class="row">
+                            <div class="col-md-5 col-sm-12 col-xs-12">
+                            <div class="board">
+                                <div class="panel panel-primary">
+                                <div class="number">
+                                    <h3>
+                                        <h3>RSU BUNDA THAMRIN</h3>
+                                        <small><p>Alamat  : Jl. Sei Batang Hari No.28-30-42, Babura Sunggal, Kec. Medan Sunggal, Kota Medan, Sumatera Utara 20112</p>
+                                         Jam        : Buka24 Jam
+                                            Telepon    : (061) 88813616
+                                            Provinsi   : Sumatera Utara</small>
+                                    </h3> 
+                                </div>
+ <div class="row">
+                    <div class="col-md-3 col-sm-12 col-xs-12">
+					<div class="board">
+                        <div class="panel panel-primary">
+						<div class="number">
+							<h3>
+								<h3>32.091.257</h3>
+								<small>Dunia</small>
+							</h3> 
+						</div>
+						<div class="icon">
+						   <i class="fa fa-eye fa-5x red"></i>
+						</div>
+		 
+                        </div>
+						</div>
+                    </div>
+					
+					       <div class="col-md-3 col-sm-12 col-xs-12">
+					<div class="board">
+                        <div class="panel panel-primary">
+						<div class="number">
+							<h3>
+								<h3>32.091.257 Kasus</h3>
+								<small>Indonesia</small>
+							</h3> 
+						</div>
+						<div class="icon">
+						   <i class="fa fa-shopping-cart fa-5x blue"></i>
+						</div>
+		 
+                        </div>
+						</div>
+                    </div>
+					
+					       <div class="col-md-3 col-sm-12 col-xs-12">
+					<div class="board">
+                        <div class="panel panel-primary">
+						<div class="number">
+							<h3>
+								<h3>9.749 Kasus</h3>
+								<small>Sumatera Utara</small>
+							</h3> 
+						</div>
+						<div class="icon">
+						   <i class="fa fa-comments fa-5x green"></i>
+						</div>
+		 
+                        </div>
+						</div>
+                    </div>
+					
+					       <div class="col-md-3 col-sm-12 col-xs-12">
+					<div class="board">
+                        <div class="panel panel-primary">
+						<div class="number">
+							<h3>
+								<h3>10 Kasus</h3>
+								<small>Pinang (SUMUT)</small>
+							</h3> 
+						</div>
+						<div class="icon">
+						   <i class="fa fa-user fa-5x yellow"></i>
+						</div>
+		 
+                        </div>
+						</div>
+                    </div>
+				   
+                </div>
+
+
+                <div class="list-group">
+
+                                    <a href="#" class="list-group-item">
+                                        <span class="badge">7 minutes ago</span>
+                                        <i class="fa fa-fw fa-comment"></i> Commented on a post
+                                    </a>
+                                    <a href="#" class="list-group-item">
+                                        <span class="badge">16 minutes ago</span>
+                                        <i class="fa fa-fw fa-truck"></i> Order 392 shipped
+                                    </a>
+                                    <a href="#" class="list-group-item">
+                                        <span class="badge">36 minutes ago</span>
+                                        <i class="fa fa-fw fa-globe"></i> Invoice 653 has paid
+                                    </a>
+                                    <a href="#" class="list-group-item">
+                                        <span class="badge">1 hour ago</span>
+                                        <i class="fa fa-fw fa-user"></i> A new user has been added
+                                    </a>
+                                    <a href="#" class="list-group-item">
+                                        <span class="badge">1.23 hour ago</span>
+                                        <i class="fa fa-fw fa-user"></i> A new user has added
+                                    </a>
+                                    <a href="#" class="list-group-item">
+                                        <span class="badge">yesterday</span>
+                                        <i class="fa fa-fw fa-globe"></i> Saved the world
+                                    </a>
+                                </div>
+
+
+								<div class="row">
+                            <div class="col-md-3 col-sm-3 col-xs-12">
+                              <div class="pri_table_list">
+                                  <div class="card card-outline-info">
+                                    <div class="card-header">
+                                      <h4><font color="Black"size="4">Global</font></h4>
+                                    </div>
+                                  </div>
+                                <ol>
+                                  <li>
+                                    <table width="100%&quot;">
+                                      <tbody><tr>
+                                        <td width="50%">Terkonfirmasi</td>
+                                        <td width="50%" align="right">
+                                          <font color="#ff8000" size="5">32.091.257</font>
+                                        </td>
+                                      </tr>
+                                    </tbody></table> 
+                                  </li>
+                                  <li>
+                                    <table width="100%&quot;">
+                                      <tbody><tr>
+                                        <td width="50%">Kematian</td>
+                                        <td width="50%" align="right">
+                                          <font color="#DC143C" size="5">980.299</font>
+                                        </td>
+                                      </tr>
+                                    </tbody></table> 
+                                  </li>
+                                  <li> 
+                                    <table width=100%">
+                                      <tr>
+                                        <td  width="50%">Sembuh</td>
+                                        <td width="50%" align="right">
+                                          <font color="#00ff80" size="5">0</font>
+                                        </td>
+                                      </tr>
+                                    </table> 
+                                  </li>
+                                <li> 
+                                    <table width="100%&quot;">
+                                      <tbody><tr>
+                                        <td width="50%">Negara/Kawasan</td>
+                                        <td width="50%" align="right">
+                                          <font color="#ff8000" size="5">216</font>
+                                        </td>
+                                      </tr>
+                                    </tbody></table> 
+                                </li>
+                                </ol>
+                                Sumber : <a target="_blank" href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019"> WHO </a> 
+                                <a target="_blank" href="https://www.worldometers.info/coronavirus/"> worldometers.info </a>
+                              </div>
+                            </div>
+                    
+                            <div class="col-md-3 col-sm-3 col-xs-12">
+                              <div class="pri_table_list">
+                                  <div class="card card-outline-success">
+                                    <div class="card-header">
+                                      <h4><font color="white" size="4">INDONESIA</font></h4>
+                                    </div>
+                                  </div>
+                                  <ol>
+                                  <li>
+                                    <table width="100%&quot;">
+                                      <tbody><tr>
+                                        <td width="50%">Terkonfirmasi</td>
+                                        <td width="50%" align="right">
+                                          <font color="#ff8000" size="5">262.022</font>
+                                        </td>
+                                      </tr>
+                                    </tbody></table> 
+                                  </li>
+                                  <li>
+                                    <table width="100%&quot;">
+                                      <tbody><tr>
+                                        <td width="50%">Dalam Perawatan</td>
+                                        <td width="50%" align="right">
+                                          <font color="#ff8000" size="5">56.889</font>
+                                        </td>
+                                      </tr>
+                                    </tbody></table> 
+                                  </li>
+                                  <li>
+                                    <table width="100%&quot;">
+                                      <tbody><tr>
+                                        <td width="50%">Meninggal</td>
+                                        <td width="50%" align="right">
+                                          <font color="#DC143C" size="5">9.448</font>
+                                        </td>
+                                      </tr>
+                                    </tbody></table> 
+                                  </li>
+                                  <li> 
+                                    <table width="100%&quot;">
+                                      <tbody><tr>
+                                        <td width="50%">Sembuh</td>
+                                        <td width="50%" align="right">
+                                          <font color="#00ff80" size="5">174.350</font>
+                                        </td>
+                                      </tr>
+                                    </tbody></table> 
+                                </li>
+                                </ol>
+                                Sumber : BNPB RI, <a target="_blank" href="https://www.covid19.go.id"> covid19.go.id </a>
+                              </div>
+                            </div>
+                    
+                            <div class="col-md-3 col-sm-3 col-xs-12">
+                              <div class="pri_table_list">
+                                  <div class="card card-outline-warning">
+                                    <div class="card-header">
+                                      <h4><font color="white" size="4">SUMATERA UTARA</font></h4>
+                                    </div>
+                                  </div>
+                                  <ol>
+                                  <li>
+                                    <table width=100%">
+                                      <tr>
+                                        <td  width="70%">ODP yang Melapor</td>
+                                        <td width="30%" align="right">
+                                          <font color="#0080ff" size="5">0</font>
+                                        </td>
+                                      </tr>
+                                    </table> 
+                                  </li>
+                                  <li>
+                                    <table width="100%&quot;">
+                                      <tbody><tr>
+                                        <td width="50%">Suspek</td>
+                                        <td width="50%" align="right">
+                                          <font color="#0080ff" size="5">955</font>
+                                        </td>
+                                      </tr>
+                                    </tbody></table> 
+                                  </li>
+                                  <li>
+                                    <table width="100%&quot;">
+                                      <tbody><tr>
+                                        <td width="70%">Konfirmasi
+                                        <br>PCR Test <font color="#ff8000" size="3">8.808</font>
+                                        <br>Rapid Test <font color="#ff8000" size="3">0</font>
+                                        </td>
+                                        <td width="30%" align="right">
+                                          <font color="#ff8000" size="5">8.808</font>
+                                        </td>
+                                      </tr>
+                                    </tbody></table> 
+                                  </li>
+                                  <li>
+                                    <table width=100%">
+                                      <tr>
+                                        <td  width="50%">Dirawat</td>
+                                        <td width="50%" align="right">
+                                          <font color="#ff8000" size="5">0</font>
+                                        </td>
+                                      </tr>
+                                    </table> 
+                                  </li>
+                                  <li> 
+                                    <table width="100%&quot;">
+                                      <tbody><tr>
+                                        <td width="70%">Meninggal</td>
+                                        <td width="30%" align="right">
+                                          <font color="#DC143C" size="5">368</font>
+                                        </td>
+                                      </tr>
+                                    </tbody></table> 
+                                </li>
+                                <li> 
+                                    <table width="100%&quot;">
+                                      <tbody><tr>
+                                        <td width="80%">Sembuh</td>
+                                        <td width="20%" align="right">
+                                          <font color="#00ff80" size="5">5.252</font>
+                                        </td>
+                                      </tr>
+                                    </tbody></table> 
+                                </li>
+                                </ol>
+                                Sumber: <a target="_blank" href="http://covid19.sumutprov.go.id"> covid19.sumutprov.go.id </a>
+                              </div>
+                            </div>
+                                  <li> 
+                                    <table width=100%">
+                                      <tr>
+                                        <td  width="70%">Positif <br>PCR Test <font color="#ff8000" size="3">17</font>
+                                        <br>Rapid Test <font color="#ff8000" size="3">0</font></td>
+                                        <td width="30%" align="right">
+                                          <font color="#ff8000" size="5">17</font>
+                                        </td>
+                                      </tr>
+                                    </table> 
+                                </li> 
+                                </ol>
+                                Sumber : Tim Gugus Tugas Covid-19 Sumatera Utara
+                              </div>
+                            </div>
+                            
+                          </div>
+                        
+                                <div class="panel-body">
+                                    <canvas id="bar-chart" class="chart"></canvas>
+                                </div>
+                            </div>
+                        </div>
